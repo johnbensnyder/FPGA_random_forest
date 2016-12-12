@@ -7,7 +7,7 @@ Once the module has been synthesized, using the skhdl_64.predict() method sends 
 
 Note: you may need to change the com port in skhdl to match the serial usb port of your machine.
 
-Included is a portion of financial data used by Dirk Zorn in his 2004 paper. Please do not distribute this dataset.
+The module included an already generated file using compustat data from Dirk Zorn's 2004 paper.
 
 ## Remaining issues as of Dec 12
 Currently the data_collect.v file also needs to be modified when new forest is generated. The NUM_DATA parameter needs to match between these two files. The data_collect.py file generates this file, but needs to be added in to the larger skhdl file.
