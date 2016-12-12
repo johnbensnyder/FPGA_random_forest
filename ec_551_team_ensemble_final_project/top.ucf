@@ -1,0 +1,15 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = V10;
+NET "RsRx" LOC = N17;
+NET "RsTx" LOC = N18;
+NET "rst" LOC = D9;
+NET "result[0]" LOC = U16;
+NET "result[1]" LOC = V16;
+NET "result[2]" LOC = U15;
+NET "result[3]" LOC = V15;
+NET "result[4]" LOC = M11;
+NET "result[5]" LOC = N11;
+NET "result[6]" LOC = R11;
+NET "result[7]" LOC = T11;
