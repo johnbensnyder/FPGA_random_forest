@@ -1,0 +1,12 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = L5;
+NET "ctrl" LOC = L2;
+NET "phy_reset" LOC = P3;
+NET "reset" LOC = T10;
+NET "out[0]" LOC = U2;
+NET "out[1]" LOC = U1;
+NET "out[2]" LOC = T2;
+NET "out[3]" LOC = T1;
+NET "TXD4" LOC = P2; 
